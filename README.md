@@ -6,6 +6,10 @@ collection of resources dedicated to help understand and create design systems
 
 - [Introduction](#introduction)
 - [courses](#courses)
+- [Repos](#repos)
+- [Articles](#articles)
+- [Roadmap](#roadmap)
+- [Sharing is caring](#sharing-is-caring)
 
 # Introduction
 
@@ -30,12 +34,13 @@ It is a work in progress and will be updated as I find more resources.
 # Articles
 
 - [The Ultimate Guide to Building a UI Component Library for a design system](https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-1-plan)
+- [Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 
 # Roadmap
 
 - https://roadmap.sh/design-system
 
-# Sharing is Caring 🤗
+# Sharing is Caring
 
 Three pillars of design systems :
 
