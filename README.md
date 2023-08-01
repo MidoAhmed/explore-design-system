@@ -52,18 +52,20 @@ When creating a design system, different development tasks can be challenging an
 
 > what are the different approaches to create a component library?
 
-1st option — build everything from scratch — Manual Creation
+*1st option* — build everything from scratch — Manual Creation
 
 - This is the most time-consuming option, it offers complete control and customization but can be time-consuming and may require more development effort.
 
-2nd option — use a UI Libraries/CSS Frameworks —
+*2nd option* — use a UI Libraries/CSS Frameworks —
 
 - This is the fastest option, but it gives you the least control over the final product.
 
-3rd option — Hyrid Approach —
+*3rd option* — Hyrid Approach — combine the 1st and 2nd options
 
-> Let's explore the 2nd option:
-> When it comes to use an existing UI library it's not always easy to customize to fit our design system's needs.
+
+Let's explore the 2nd option:
+When it comes to use an existing UI library it's not always easy to customize to fit our design system's needs.
+
 > So what are the different approaches to customize or extend or workarounds to use an existing UI library ?
 
 - **find a themeable library (that supports theming) and adapt to your needs** - work in progress : Need to POC this approach
