@@ -35,6 +35,7 @@ It is a work in progress and will be updated as I find more resources.
 
 - [The Ultimate Guide to Building a UI Component Library for a design system](https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-1-plan)
 - [Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+- [Design system: How to build a library?](https://bootcamp.uxdesign.cc/design-system-how-to-build-a-library-637c066a64df)
 
 # Roadmap
 
@@ -52,16 +53,15 @@ When creating a design system, different development tasks can be challenging an
 
 > what are the different approaches to create a component library?
 
-*1st option* — build everything from scratch — Manual Creation
+_1st option_ — build everything from scratch — Manual Creation
 
 - This is the most time-consuming option, it offers complete control and customization but can be time-consuming and may require more development effort.
 
-*2nd option* — use a UI Libraries/CSS Frameworks —
+_2nd option_ — use a UI Libraries/CSS Frameworks —
 
 - This is the fastest option, but it gives you the least control over the final product.
 
-*3rd option* — Hyrid Approach — combine the 1st and 2nd options
-
+_3rd option_ — Hyrid Approach — combine the 1st and 2nd options
 
 Let's explore the 2nd option:
 When it comes to use an existing UI library it's not always easy to customize to fit our design system's needs.
