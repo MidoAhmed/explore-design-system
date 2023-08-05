@@ -30,7 +30,10 @@ It is a work in progress and will be updated as I find more resources.
 - [Design Systems Repo](https://designsystemsrepo.com/)
 - [Adele - Design Systems Repository](https://adele.uxpin.com/)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-
+- https://news.design.systems/
+- http://styleguides.io/
+- https://atomicdesign.bradfrost.com/
+  
 # Articles
 
 - [The Ultimate Guide to Building a UI Component Library for a design system](https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-1-plan)
