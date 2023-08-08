@@ -57,7 +57,7 @@ _1st option_ — build everything from scratch — Manual Creation
 
 - This is the most time-consuming option, it offers complete control and customization but can be time-consuming and may require more development effort.
 
-_2nd option_ — use a UI Libraries/CSS Frameworks —
+_2nd option_ — use an existing UI library —
 
 - This is the fastest option, but it gives you the least control over the final product.
 
@@ -66,11 +66,12 @@ _3rd option_ — Hyrid Approach — combine the 1st and 2nd options
 Let's explore the 2nd option:
 When it comes to use an existing UI library it's not always easy to customize to fit our design system's needs.
 
-> So what are the different approaches to customize or extend or workarounds to use an existing UI library ?
+> So what are the different approaches to customize/extend an existing UI library to fit my requirements ?
 
-- **find a themeable library (that supports theming) and adapt to your needs** - work in progress : Need to POC this approach
-- **find a library that you can use as a foundation and build on top** - work in progress : Need to POC this approach
-- **Headless components / Unstyled components** - work in progress : Need to POC this approach
+- **find a themeable library (that supports theming) and adapt it to your needs** -
+- **find a library that you can use as a foundation and build on top** -
+- **Headless components / Unstyled components** -
+
 - Find other approaches...
 
 the objective is to POC the different approaches and find the best approach that fits our needs considering the following criteria :
