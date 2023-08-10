@@ -33,6 +33,7 @@ It is a work in progress and will be updated as I find more resources.
 - https://news.design.systems/
 - http://styleguides.io/
 - https://atomicdesign.bradfrost.com/
+- https://www.uxpin.com/studio/?s=design+system
   
 # Articles
 
