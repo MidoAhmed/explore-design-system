@@ -30,17 +30,20 @@ It is a work in progress and will be updated as I find more resources.
 - [Design Systems Repo](https://designsystemsrepo.com/)
 - [Adele - Design Systems Repository](https://adele.uxpin.com/)
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-- https://news.design.systems/
-- http://styleguides.io/
-- https://atomicdesign.bradfrost.com/
-- https://www.uxpin.com/studio/?s=design+system
+
   
 # Articles
 
 - [The Ultimate Guide to Building a UI Component Library for a design system](https://www.telerik.com/blogs/ultimate-guide-to-building-ui-component-library-part-1-plan)
 - [Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 - [Design system: How to build a library?](https://bootcamp.uxdesign.cc/design-system-how-to-build-a-library-637c066a64df)
-
+- [Building a Design System with React Web Components](https://www.voorhoede.nl/en/blog/building-design-system-react-web-components/)
+- [HOW TO CREATE UI COMPONENTS – TECHNICAL GUIDELINE](https://pagepro.co/blog/how-to-create-ui-components-technical-guideline/)
+- https://news.design.systems/
+- http://styleguides.io/
+- https://atomicdesign.bradfrost.com/
+- https://www.uxpin.com/studio/?s=design+system
+-   
 # Roadmap
 
 - https://roadmap.sh/design-system
